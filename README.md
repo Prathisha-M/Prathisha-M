@@ -1,10 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Prathisha%20M&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Mobile%20%26%20Backend%20Developer&descAlignY=58&descSize=20" width="100%"/>
+# 👋 Hi, I'm Prathisha M
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=React+Native+CLI+Developer+%F0%9F%93%B1;Node.js+%26+Backend+Developer+%E2%9A%99%EF%B8%8F;M.Tech+Student+%7C+BE+CSE+Graduate+%F0%9F%8E%93;Open+to+Collaborate+%F0%9F%A4%9D" alt="Typing SVG" />
-</a>
+### 📱 React Native CLI & Node.js Developer
+
+🎓 BE Computer Science Graduate (2024) &nbsp;|&nbsp; M.Tech Student (2026)
+
+💻 2+ Years of Experience &nbsp;|&nbsp; Mobile & Backend Development
 
 <br/>
 
@@ -63,14 +65,9 @@ const prathisha = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Prathisha-M&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathisha-M&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Prathisha-M&theme=tokyonight&hide_border=true)](https://github.com/Prathisha-M)
 
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Prathisha-M&theme=tokyonight&hide_border=true" />
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Prathisha-M&theme=tokyo-night&hide_border=true)](https://github.com/Prathisha-M)
 
 </div>
 
@@ -87,8 +84,6 @@ const prathisha = {
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 **✨ Thanks for visiting my profile! Let's build something amazing together. ✨**
 
