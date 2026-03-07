@@ -4,7 +4,7 @@
 
 ### 📱 React Native CLI & Node.js Developer
 
-🎓 BE Computer Science Graduate (2024) &nbsp;|&nbsp; M.Tech Student (2026)
+🎓 BE Computer Science Graduate (2024) &nbsp;|&nbsp; M.Tech Information Technology Graduate (2026)
 
 💻 2+ Years of Experience &nbsp;|&nbsp; Mobile & Backend Development
 
