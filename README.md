@@ -22,7 +22,7 @@
 ```typescript
 const prathisha = {
   pronouns     : "She/Her",
-  education    : ["BE Computer Science (2024)", "M.Tech Information Technology (2026)"],
+  education    : ["BE Computer Science", "M.Tech Information Technology"],
   experience   : "2+ years in Mobile & Backend Development",
   focus        : ["React Native CLI", "Node.js", "REST APIs"],
   interests    : ["Mobile App Development", "Backend Architecture"],
