@@ -75,7 +75,7 @@ const prathisha = {
 
 ## 🎯 What I'm Up To
 
-- 🎓 Pursuing **M.Tech** (graduating 2026)
+- 🎓 Completed **M.Tech in Information Technology** (2026)
 - 🌱 Deepening expertise in **React Native CLI** & **Node.js**
 - 🚀 Building scalable mobile + backend solutions
 - 💞️ Looking to collaborate on **mobile app development projects**
